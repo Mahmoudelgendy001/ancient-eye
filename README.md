@@ -78,7 +78,7 @@ Dense(21, Softmax)
 
 ## Model Download
 
-The model file (`ancienteye.h5`) is not included in this repo due to size (~80–150MB).
+The model file (`ancienteye.h5`) is not included in this repo.
 
 **Download:** *(https://drive.google.com/drive/folders/1I_7hGVPP9LocVKYxinFdfmtFzoFtu-Y0?usp=sharing)*
 
